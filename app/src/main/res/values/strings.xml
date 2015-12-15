@@ -5,4 +5,9 @@
     <string name="button_freetrail">Free Trail</string>
     <string name="action_settings">Settings</string>
     <string name="help_instruction">help</string>
+    <string name="title_activity_ftselection">Free Trail Selection</string>
+    <string name="ft_msg">Please select options and click the start button</string>
+    <string name="button_StartFT">Start</string>
+    <string name="button_ResetFT">Reset</string>
+    <string name="button_Return">Return</string>
 </resources>
