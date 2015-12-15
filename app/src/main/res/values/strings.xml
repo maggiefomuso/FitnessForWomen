@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness For Women</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_predefined">Predefined</string>
+    <string name="button_freetrail">Free Trail</string>
+    <string name="action_settings">Settings</string>
+    <string name="help_instruction">help</string>
+</resources>
